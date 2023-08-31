@@ -1,6 +1,6 @@
 # Cryptography
 In this project, We have tried to design a new Cryptosystem based
-on some tree properties (specifically using LCA(Least Common Ancestor)) while doing encryption. (Note: LCA of two nodes is the
+on some tree properties (specifically using LCA(Least Common Ancestor)) while doing encryption. (Note: LCA of two nodes is the
 node that is the lowest (i.e. deepest) node that has both the given
 nodes as descendants.)
 • It’s a kind of block cipher but, here we will take a bunch of 2-2 elements and then we will encrypt them respectively.
